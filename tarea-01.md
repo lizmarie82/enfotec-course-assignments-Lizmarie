@@ -229,6 +229,6 @@ La retroalimentación será importante para determinar si la propuesta realmente
 
 ## Nombre provisional de la iniciativa
 
-### Maker desde el Interior
+### Impulsa Tech
 
-**Un espacio para conocernos, compartir experiencias y comenzar a construir una red de apoyo para la educación maker en Panamá.**
+**Una comunidad para conectar personas, compartir experiencias y fortalecer la educación maker y STEAM en distintas regiones de Panamá.**
